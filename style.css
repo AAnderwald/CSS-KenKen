@@ -7,7 +7,10 @@ body {
     height: fit-content;
     margin: 2rem auto;
     padding: 2rem;
+    background-color: rgb(219, 182, 126);
+    color: rgb(2, 2, 65);
 }
+
 
 html {
     font-size: 12px;
@@ -20,6 +23,7 @@ html {
     border: 3px solid black;
     width: min(80vw, 80vh);
     height: min(80vw, 80vh);
+    background-color: cornsilk;
 }
 
 .grid-items {
@@ -32,7 +36,7 @@ html {
 }
 
 .prompt {
-    position:absolute;
+    position: absolute;
     top: 0%;
     left: 0%;
 }
@@ -43,7 +47,7 @@ html {
   height: 50%;
   border: none;
   font-size: 2rem;
-  background-color: rgb(245, 245, 235);
+  background-color: rgb(240, 236, 217);
 }
 
 #box5, #box6, #box7, #box8, #box9, #box12, #box13, #box14, #box15 {
