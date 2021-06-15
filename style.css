@@ -25,14 +25,14 @@ html {
 .grid-items {
     border: 1px solid lightgray;
     font-size: 2rem;
-    position: relative
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .prompt {
-    position:absolute
+    position:absolute;
     top: 0%;
     left: 0%;
 }
