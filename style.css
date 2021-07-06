@@ -11,10 +11,10 @@ body {
     color: rgb(2, 2, 65);
 }
 
-
 html {
     font-size: 12px;
 }
+
 
 .grid   {
     display: grid;
@@ -55,6 +55,10 @@ html {
 }
 #box2, #box6, #box9, #box10, #box11, #box14 {
     border-right: 4px solid black;
+}
+
+.resetButton {
+    background-color: cornsilk;
 }
 
 @media (min-width: 500px) {
